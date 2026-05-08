@@ -3,7 +3,7 @@
 Bu proje, bir lojistik firmasının şehirler arası ağını (Graf) ve paket sorgulama sistemini (Hash Table) yöneten hibrit bir veri yapısı uygulamasıdır.
 
 ## 👤 Öğrenci Bilgileri
-- **Ad Soyad:** [Adını Buraya Yaz]
+- **Ad Soyad:** Yusuf Cezlan
 - **Öğrenci No:** 1250505031
 - **Ders:** Veri Yapıları ve Algoritmalar Final Projesi
 
